@@ -37,3 +37,44 @@
 **Link to work:** 
 1. [My Website's blog](https://www.thecoderaccoons.com/Blog)
 2. [Landing page's ideas](https://codepen.io/dashboard/)
+
+
+### Day 4: July 18, 2019 
+
+**Today's Progress**: 
+1. Worked today with the react module of Free code camp's Front End Libraries Certification, only did a couple execises but it was fun
+
+**Thoughts:** I have made a couple of web apps on react and I do feel confortable working with it but I can notice there is way more things and I want to learn it all!
+
+
+**Link to work:** 
+1. [My Website's blog](https://www.thecoderaccoons.com/Blog)
+2. [My codepen profile](https://codepen.io/dashboard/)
+
+
+### Day 5: July 19, 2019 
+
+**Today's Progress**: 
+1. I wanted to keep up with Free code camp's Front End Libraries Certification but i had just a lot of things to do at work, I ended up fixing some code I wrote way back at the begining of the project somewhere around 2 years ago so I do feel great about it.
+
+**Thoughts:** After 4 years of working with native Android development and 2 years with my current project I feel nice to see how much I've grown on my coding skills, I guess I might look for a koltin course since I have this feeling koltin will replace java eventually, but we'll see.
+
+
+**Link to work:** 
+1. [My Website's blog](https://www.thecoderaccoons.com/Blog)
+2. [My codepen profile](https://codepen.io/dashboard/)
+
+
+### Day 6: July 20, 2019 
+
+**Today's Progress**: 
+1. I continued with my Free code camp's Front End Libraries Certification's react module and did a couple of exercises.
+2. Took pen and paper and worked on some simple design ideas for a website Im working on, might post some images of the pens tomorrow as I make them.
+
+
+**Thoughts:** It's been a while since I took pen and paper to actually draw a layaut, im not really used to it but i guess ill do it more often, i felt great the fact that I could literally draw what ever came to my mind.
+
+
+**Link to work:** 
+1. [My Website's blog](https://www.thecoderaccoons.com/Blog)
+2. [My codepen profile](https://codepen.io/dashboard/)
