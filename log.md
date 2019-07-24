@@ -78,3 +78,46 @@
 **Link to work:** 
 1. [My Website's blog](https://www.thecoderaccoons.com/Blog)
 2. [My codepen profile](https://codepen.io/dashboard/)
+
+
+### Day 7: July 21, 2019 
+
+**Today's Progress**: 
+1. Today was mainly a family day so I took most of the day off, even though I got to make some quick exercises on Enki app, anyone who likes code and want to get quick tips and tricks as well as keeping the knowledge fresh should download this app, it is amazing.
+
+**Thoughts:** I needed a little rest from the pc since it has been nuts in the office lately, deploying a project where I'm a solo developer can be really exhausting, but i did enjoyed reviewing my knowledge.
+
+
+**Link to work:** 
+1. [My Website's blog](https://www.thecoderaccoons.com/Blog)
+2. [My codepen profile](https://codepen.io/dashboard/)
+
+
+
+### Day 8: July 22, 2019 
+
+**Today's Progress**: 
+1. Today I spent some time on a website I'm working on, I took about an hour to pass the main sections of the site from a sketch to actual code and I feel comfortable with how it's looking but I might be revamping the color pallette a little bit and also work on animations, after I'm done with that I'll go on with the next sections.
+
+**Thoughts:** I really enjoy creating a website from scratch, see how my websites come from a blank page to a full site it's quite an experience and I usually get satisfied by the final result, I also get better with each site so I just love doing this.
+
+
+**Link to work:** 
+1. [My Website's blog](https://www.thecoderaccoons.com/Blog)
+2. [My codepen profile](https://codepen.io/dashboard/)
+
+
+
+
+### Day 9: July 23, 2019 
+
+**Today's Progress**: 
+1. I knew I was going to do this, I ended up revamping one of the sections ([Images on Twitter](https://twitter.com/TheCodeRaccoons/status/1153843146603651077)) but in the end I think it ended up quite great so i guess I'll leave it as is right now.
+2. On the office I worked a little with network validations, I don't usually count in what I do at work for this since... well I code about 10 hours daily there but Java is not what I want to focus during the #100DaysOfCode challenge, but I just have a hell of a time to actually manage to validate either if an internet connection is good enough to work online.
+
+**Thoughts:** Just a frendly reminder to my self, stay away of enterprise projects that involve a mobile app that works online - offline and "Have to" be updated in "Real time" gosh i sometimes think about why I thought it would be easy xD.
+
+
+**Link to work:** 
+1. [My Website's blog](https://www.thecoderaccoons.com/Blog)
+2. [My codepen profile](https://codepen.io/dashboard/)
