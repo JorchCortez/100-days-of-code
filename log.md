@@ -16,3 +16,29 @@ I've tried 100DaysOfCode Challenge a couple of times before without much success
 ___
 
 
+## Day 2: January 20, 2022
+
+### 📅 Today's Progress:
+Didn't really did much today I was mainly trying to fix some things with an old project (as usual had some dependencies which were already outdated and everything is breaking (: )
+
+### 🤔 Thoughts:
+I will start with a couple of new apps one of them being a new project I decided to create and I'm feeling quite happy about it :)
+
+### My Links:
+[💻 My Website](https://www.thecoderaccoons.com/)
+[🧰 My pens](https://codepen.io/dashboard/)
+___
+
+
+## Day 3: January 21, 2022
+
+### 📅 Today's Progress:
+Just as I said yesterday today I started with one of the projects (though the start has only been the "create the project setup" ) I will be working on the design along with a quick refresher for React since it's been about 6 months since I used it for the last time and I want to get proficient with hooks :3 but that'll be something I'll be doing along
+
+### 🤔 Thoughts:
+I believe with this project I might take most of the 100 days of code since it seems a bit big but I guess we'll see 😎
+
+### My Links:
+[💻 My Website](https://www.thecoderaccoons.com/)
+[🧰 My pens](https://codepen.io/dashboard/)
+___
