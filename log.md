@@ -42,3 +42,29 @@ I believe with this project I might take most of the 100 days of code since it s
 [💻 My Website](https://www.thecoderaccoons.com/)
 [🧰 My pens](https://codepen.io/dashboard/)
 ___
+
+## Day 4: January 22, 2022
+
+### 📅 Today's Progress:
+Project setups and checking everything was ready to start properly
+
+### 🤔 Thoughts:
+I really wish I had time to work today 😅
+
+### My Links:
+[💻 My Website](https://www.thecoderaccoons.com/)
+[🧰 My pens](https://codepen.io/dashboard/)
+
+___
+## Day 5: January 23, 2022
+
+### 📅 Today's Progress:
+Started React TCG course's project #1 and made a quick code cleanup on an old project I had
+
+### 🤔 Thoughts:
+Might take a bit to go through it but just because the course is a bit slow and I don't have a lot of time through the day
+
+### My Links:
+[💻 My Website](https://www.thecoderaccoons.com/)
+[🧰 My pens](https://codepen.io/dashboard/)
+___
