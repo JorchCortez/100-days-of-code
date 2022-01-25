@@ -68,3 +68,16 @@ Might take a bit to go through it but just because the course is a bit slow and 
 [💻 My Website](https://www.thecoderaccoons.com/)
 [🧰 My pens](https://codepen.io/dashboard/)
 ___
+
+## Day 6: January 24, 2022
+
+### 📅 Today's Progress:
+Continued with React TCG Course today, got to about 1/3 of the first project, changing most of the look of the app since I don't really like the appearance but keeping the core elements of it.
+
+### 🤔 Thoughts:
+Thinking about the core for my next App might go for Next Js for the core app what to do what to dooo
+
+### My Links:
+[💻 My Website](https://www.thecoderaccoons.com/)
+[🧰 My pens](https://codepen.io/dashboard/)
+___
