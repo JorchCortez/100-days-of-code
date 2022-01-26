@@ -81,3 +81,18 @@ Thinking about the core for my next App might go for Next Js for the core app wh
 [💻 My Website](https://www.thecoderaccoons.com/)
 [🧰 My pens](https://codepen.io/dashboard/)
 ___
+
+## Day 7: January 25, 2022
+
+### 📅 Today's Progress:
+- Successfully updated Rust-420 project's parallax background from a SCSS funtion to fully CSS, worked with css's 3D properties which is new for me so it was fun to work on.
+- Started work on site updates for Rust 420
+- Finished first sectiion of the React TCG course, meaning first part of the first app and code cleanup have been made.
+
+### 🤔 Thoughts:
+Remembering about React is actually quite simple, I have already got a hang of it and now I'm only going as fast as the course goes but overall I'm having fun working on this again. Also excited about the work in the new app I'm planning but I'll be working on the Texas-420 website first since I will reuse some of it's functionalities later on :D
+
+### My Links:
+[💻 My Website](https://www.thecoderaccoons.com/)
+[🧰 My pens](https://codepen.io/dashboard/)
+___
