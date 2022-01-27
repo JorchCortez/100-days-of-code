@@ -96,3 +96,17 @@ Remembering about React is actually quite simple, I have already got a hang of i
 [💻 My Website](https://www.thecoderaccoons.com/)
 [🧰 My pens](https://codepen.io/dashboard/)
 ___
+
+## Day87: January 26, 2022
+
+### 📅 Today's Progress:
+- Worked with Docker... properly for the first time.
+- Continued my progress on the React TCG course, not a lot done today but I was working with hooks wor some time 
+
+### 🤔 Thoughts:
+Tough day today, I was biting a bit more than I could chew at work which got me pretty tired and not supper eager to working at night, though I managed to grab some energy from god knows where I still feel a bit tired, I'm sure tomorrow I'll be able to work better on my stuff after work :D
+
+### My Links:
+[💻 My Website](https://www.thecoderaccoons.com/)
+[🧰 My pens](https://codepen.io/dashboard/)
+___
